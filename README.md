@@ -1,2 +1,2 @@
-# Newton-s-Cradle
-P-30 Newton's Cradle
+#Newton's Cradle
+Newton's Cradle
